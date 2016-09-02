@@ -1,5 +1,5 @@
-# Siema-swiat
-tu se mogę pierdzielnać opis
+# Siema-world
+some grat description
 
 
-blablabla druga gałązka
+blablabla second arm
